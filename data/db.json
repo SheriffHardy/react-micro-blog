@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Ask participants if they have ever used a computer or smartphone for productivity. If so, ask them to describe what tools they use",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog",
+      "body": "Ask participants if they know what is Information and Communication Technology? . Write their responses on the board",
+      "author": "Luigi",
+      "id": 2
+    },
+    {
+      "title": "Stress Relief",
+      "body": "Today,,, Smoking is going to change lives",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "Scotts Totts",
+      "body": "Micheal has done the most terrible thing",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "Scotts Totts",
+      "body": "Micheal has done the most terrible thing",
+      "author": "mario",
+      "id": 6
+    }
+  ]
+}
